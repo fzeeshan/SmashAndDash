@@ -1,0 +1,1 @@
+//animation = animation_text_reveal(false, 0, room_seconds(8), 0.2, 0.05, 0.025, c_red, c_white, fnt_arial_68_b, fa_center, fa_middle, room_width / 2, room_height / 2 - 50, "DSEngine#Text Animation Effect", 100, room_width);

@@ -1,0 +1,1 @@
+state = scr_idle;
